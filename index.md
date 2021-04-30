@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Neil Thivalapill, M.S.
 
-You can use the [editor on GitHub](https://github.com/neilthivalapill/neilthivalapill/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello! Welcome to my personal website. My name is Neil Thivalapill, and I'm a medical student at Northwestern. I'm interested in all things epidemiology, global health and surgery, and Dunkin' coffee.
 
 ### Markdown
 
